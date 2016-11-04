@@ -201,6 +201,7 @@
     <background>background\Inicio_1</background>
     <background>background\Cancha</background>
     <background>background\gameover</background>
+    <background>background\Piso_5_Carriles</background>
   </backgrounds>
   <paths name="paths"/>
   <objects name="objects">
