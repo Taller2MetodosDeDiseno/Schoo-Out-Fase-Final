@@ -31,7 +31,11 @@
     <yoffset>0</yoffset>
   </makerSettings>
   <backgrounds>
+<<<<<<< HEAD
     <background visible="-1" foreground="0" name="Piso2" x="0" y="147" htiled="0" vtiled="0" hspeed="0" vspeed="0" stretch="0"/>
+=======
+    <background visible="-1" foreground="0" name="" x="0" y="147" htiled="0" vtiled="0" hspeed="0" vspeed="0" stretch="0"/>
+>>>>>>> origin/master
     <background visible="0" foreground="0" name="" x="0" y="0" htiled="-1" vtiled="-1" hspeed="0" vspeed="0" stretch="0"/>
     <background visible="0" foreground="0" name="" x="0" y="0" htiled="-1" vtiled="-1" hspeed="0" vspeed="0" stretch="0"/>
     <background visible="0" foreground="0" name="" x="0" y="0" htiled="-1" vtiled="-1" hspeed="0" vspeed="0" stretch="0"/>
@@ -51,6 +55,7 @@
     <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="1024" hview="768" xport="0" yport="0" wport="1024" hport="768" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
   </views>
   <instances>
+<<<<<<< HEAD
     <instance objName="objMuroLab" x="0" y="0" name="inst_DEBB7BB5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objMuroLab" x="160" y="0" name="inst_A40AE619" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objMuroLab" x="320" y="0" name="inst_182798F1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -61,10 +66,13 @@
     <instance objName="objMuroLab" x="960" y="0" name="inst_B8D59A27" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objMuroLab" x="1280" y="0" name="inst_38195C15" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objPuertaLab" x="32" y="0" name="inst_29B87298" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+=======
+>>>>>>> origin/master
     <instance objName="objVentana2" x="128" y="0" name="inst_E4198334" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objVentana2" x="960" y="0" name="inst_D40E6A50" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objCasillero1" x="800" y="0" name="inst_49638D87" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objCasillero1" x="416" y="0" name="inst_D424B7DC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+<<<<<<< HEAD
     <instance objName="objMesaLab" x="480" y="64" name="inst_493897C4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objMesaLab" x="928" y="64" name="inst_DEF415AC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objRepisaLab" x="256" y="0" name="inst_979F4601" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -76,6 +84,11 @@
     <instance objName="objPers" x="128" y="352" name="inst_C4644769" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objCtrlEnemN2" x="128" y="224" name="inst_F9CCB953" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objSndLevel2" x="256" y="192" name="inst_6311DA6A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+=======
+    <instance objName="objCasillero2" x="864" y="0" name="inst_00D55693" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="objPuerta2" x="1224" y="16" name="inst_17A57D11" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="objPers" x="128" y="352" name="inst_C4644769" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+>>>>>>> origin/master
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>

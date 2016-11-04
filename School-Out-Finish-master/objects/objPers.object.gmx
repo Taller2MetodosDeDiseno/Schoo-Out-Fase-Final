@@ -416,7 +416,7 @@ if (atbas)&amp;&amp;(canatq)&amp;&amp;(canmelee){
 global.atbas = true;
 sprmelee = true;
 canmelee = false;
-alarm[8] = 45
+alarm[8] = 30
 }
 else{
 global.atbas = false
@@ -532,7 +532,7 @@ if (atdist)&amp;&amp;(canshoot){
 sprdistancia = true;
 instance_create(x,y,objBalaPers);
 canshoot = false;
-alarm[7] = 60
+alarm[7] = 45
 }
 </string>
           </argument>
