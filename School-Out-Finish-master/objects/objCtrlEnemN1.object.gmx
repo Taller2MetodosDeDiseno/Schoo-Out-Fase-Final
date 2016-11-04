@@ -179,11 +179,11 @@ if (N1O2d){
 if (N1O3a){
     for(ok = true; done = false; done = true){
         instance_create(0,0,objBullyBas);
+        instance_create(0,0,objNerdBas);
         instance_create(0,0,objBullyBas);
-        instance_create(0,0,objBullyBas);
-        instance_create(0,0,objBullyBas);
-        instance_create(0,0,objBullyMed);
-        instance_create(0,0,objBullyMed)
+        instance_create(0,0,objNerdBas);
+        
+        
     }
     
     if(instance_number(objEnem) = 0){
@@ -215,10 +215,10 @@ if (N1O4a){
 
 if (N1O4b){
     for(ok = true; done = false; done = true){
-        instance_create(0,0,objBullyBas);
-        instance_create(0,0,objBullyBas);
+        instance_create(0,0,objNerdMed);
         instance_create(0,0,objBullyMed);
         instance_create(0,0,objBullyMed);
+       
     }
     
     if(instance_number(objEnem) = 0){
@@ -251,10 +251,10 @@ if (N1O5a){
 
 if (N1O5b){
     for(ok = true; done = false; done = true){
-        instance_create(0,0,objBullyBas);
+        instance_create(0,0,objNerdBas);
         instance_create(0,0,objBullyBas);
         instance_create(0,0,objDeportBas);
-        instance_create(0,0,objBullyMed);
+        instance_create(0,0,objNerdMed);
         instance_create(0,0,objBullyMed)
     }
     

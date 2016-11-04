@@ -69,9 +69,6 @@
     <instance objName="objVentana" x="1116" y="8" name="inst_E5C9A6DF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objArmario" x="480" y="8" name="inst_1384EBE9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objBanca" x="1108" y="-24" name="inst_EC60D775" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="objEnergiz" x="1142" y="82" name="inst_6E9ACF6D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="objEnergiz" x="1224" y="84" name="inst_DEB07927" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="objBalaNerdBas" x="1182" y="82" name="inst_167E273B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objCasillero1" x="-2" y="0" name="inst_9F580F12" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objPers" x="48" y="472" name="inst_38021ACD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objCtrlEnemN1" x="246" y="164" name="inst_EB88C7FE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>

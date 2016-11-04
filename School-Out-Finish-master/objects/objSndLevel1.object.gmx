@@ -54,7 +54,7 @@ audio_play_sound(sndRoof_1,10,true)
 consejo1 = objCtrlEnemN1.N1O1b;
 
 if (consejo1)&amp;&amp;(!consejo2)&amp;&amp;(!consejo3){
-draw_text_colour(900,662,"Consejo: acércate a un CASILLERO!", c_white, c_white, c_white, c_white, 2000)
+draw_text_colour(900,662,"Consejo: acercate a un CASILLERO!", c_white, c_white, c_white, c_white, 2000)
 }
 
 consejo2 = global.contact;

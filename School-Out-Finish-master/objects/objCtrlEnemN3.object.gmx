@@ -121,7 +121,7 @@ if (N3O1c){
 if (N3O2a){
     for(ok = true; done = false; done = true){
         instance_create(0,0,objDeportBas);
-        instance_create(0,0,objDeportBas)
+        instance_create(0,0,objDeportMed)
     }
     
     if(instance_number(objEnem) = 0){
@@ -133,8 +133,8 @@ if (N3O2a){
 
 if (N3O2b){
     for(ok = true; done = false; done = true){
-        instance_create(0,0,objDeportBas);
-        instance_create(0,0,objDeportBas)
+        instance_create(0,0,objBullyBas);
+        instance_create(0,0,objDeportMed)
     }
     
     if(instance_number(objEnem) = 0){
@@ -160,7 +160,7 @@ if (N3O2c){
 if (N3O2d){
     for(ok = true; done = false; done = true){
         instance_create(0,0,objDeportBas);
-        instance_create(0,0,objNerdMed)
+        instance_create(0,0,objBullyMed)
     }
     
     if(instance_number(objEnem) = 0){
@@ -179,11 +179,10 @@ if (N3O2d){
 if (N3O3a){
     for(ok = true; done = false; done = true){
         instance_create(0,0,objDeportBas);
-        instance_create(0,0,objDeportBas);
-        instance_create(0,0,objDeportBas);
+        instance_create(0,0,objDeportMed);
+        instance_create(0,0,objBullyBas);
         instance_create(0,0,objDeportBas);
         instance_create(0,0,objNerdMed);
-        instance_create(0,0,objNerdMed)
     }
     
     if(instance_number(objEnem) = 0){
@@ -236,10 +235,10 @@ if (N3O4b){
 
 if (N3O5a){
     for(ok = true; done = false; done = true){
-        instance_create(0,0,objDeportBas);
+        instance_create(0,0,objBullyBas);
         instance_create(0,0,objDeportBas);
         instance_create(0,0,objDeportMed);
-        instance_create(0,0,objNerdMed)
+        instance_create(0,0,objNerdBas)
     }
     
     if(instance_number(objEnem) = 0){
@@ -252,7 +251,7 @@ if (N3O5a){
 if (N3O5b){
     for(ok = true; done = false; done = true){
         instance_create(0,0,objDeportBas);
-        instance_create(0,0,objDeportBas);
+        instance_create(0,0,objBullyBas);
         instance_create(0,0,objDeportMed);
         instance_create(0,0,objNerdMed);
         instance_create(0,0,objNerdMed)
