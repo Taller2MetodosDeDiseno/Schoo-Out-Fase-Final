@@ -28,7 +28,7 @@
             <string>/// Variables Iniciales
 
 x = random_range(1340,576);
-y = choose(192,288,384,480,576,672);
+y = choose(201.5,316.5,432,547.5,662.5);
 
 /*
 Velocidad del enemigo.
