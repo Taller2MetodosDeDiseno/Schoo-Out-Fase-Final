@@ -10,6 +10,15 @@
     <sound>sound\sndUltimate_2</sound>
     <sound>sound\sndBoss2</sound>
     <sound>sound\sndBoss1</sound>
+    <sound>sound\sound5_Comer</sound>
+    <sound>sound\sound6_gema</sound>
+    <sound>sound\sound7_Golpe</sound>
+    <sound>sound\sound8_Libro</sound>
+    <sound>sound\sound10_Poscion</sound>
+    <sound>sound\sound11_Auch</sound>
+    <sound>sound\sound12_AuchB</sound>
+    <sound>sound\sound13_AuchF</sound>
+    <sound>sound\SndLvl2</sound>
   </sounds>
   <sprites name="sprites">
     <sprites name="sprsPersonaje">
@@ -166,6 +175,7 @@
       <sprite>sprites\sprCasillero2</sprite>
       <sprite>sprites\sprCasillero3</sprite>
       <sprite>sprites\sprRepisa1</sprite>
+      <sprite>sprites\sprTablero</sprite>
       <sprite>sprites\sprPuerta1</sprite>
       <sprite>sprites\sprRepisa2</sprite>
       <sprite>sprites\sprPuerta2</sprite>
@@ -173,13 +183,19 @@
       <sprite>sprites\sprMuro</sprite>
       <sprite>sprites\sprBanca</sprite>
       <sprite>sprites\sprArmario</sprite>
+      <sprite>sprites\sprMuroLab</sprite>
       <sprite>sprites\sprVentana</sprite>
+      <sprite>sprites\sprite110</sprite>
+      <sprite>sprites\sprMesaLab</sprite>
+      <sprite>sprites\Repisa_Lab</sprite>
       <sprite>sprites\sprVentana2</sprite>
       <sprite>sprites\sprEsqueleto</sprite>
       <sprite>sprites\sprFly</sprite>
     </sprites>
     <sprites name="sprsBosses">
-      <sprite>sprites\sprProfQuim</sprite>
+      <sprites name="SprsProfQuim">
+        <sprite>sprites\sprProfQuim</sprite>
+      </sprites>
       <sprites name="sprsProfHist">
         <sprite>sprites\sprProfHistQuieto</sprite>
         <sprite>sprites\sprProfHistCorrer</sprite>
@@ -202,6 +218,7 @@
     <background>background\Cancha</background>
     <background>background\gameover</background>
     <background>background\Piso_5_Carriles</background>
+    <background>background\Piso2</background>
   </backgrounds>
   <paths name="paths"/>
   <objects name="objects">
@@ -212,6 +229,7 @@
     <object>objects\objBalaPers</object>
     <objects name="objsCtrlEnem">
       <object>objects\objCtrlEnemN1</object>
+      <object>objects\objCtrlEnemN2</object>
       <object>objects\objCtrlEnemN3</object>
     </objects>
     <objects name="objsBalasEnem">
@@ -250,6 +268,7 @@
       <object>objects\objEnem</object>
       <objects name="objsBosses">
         <object>objects\objProfHist</object>
+        <object>objects\objProfQuimica</object>
         <object>objects\objProfEdF</object>
       </objects>
       <objects name="objsMinions">
@@ -301,8 +320,14 @@
       <object>objects\objEsqueleto</object>
       <object>objects\object50</object>
       <object>objects\objFly</object>
+      <object>objects\objMesaLab</object>
+      <object>objects\objMuroLab</object>
+      <object>objects\objPuertaLab</object>
+      <object>objects\objRepisaLab</object>
+      <object>objects\objTablero</object>
     </objects>
     <object>objects\objSndLevel1</object>
+    <object>objects\objSndLevel2</object>
     <object>objects\objSndLevel3</object>
     <object>objects\objSndBoss1</object>
     <object>objects\objSndBoss3</object>
@@ -312,6 +337,7 @@
     <room>rooms\Inicio</room>
     <room>rooms\Level_1_1</room>
     <room>rooms\Boss_Level_1</room>
+    <room>rooms\Level2___1</room>
     <room>rooms\Level_3___1</room>
     <room>rooms\Boss_Level_3</room>
     <room>rooms\Win</room>

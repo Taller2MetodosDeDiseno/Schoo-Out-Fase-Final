@@ -208,7 +208,7 @@ if (N1O4a){
     
     if(instance_number(objEnem) = 0){
         N1O4a = false;
-        N1O2b = true;
+        N1O4b = true;
         done = false
     }
 }
